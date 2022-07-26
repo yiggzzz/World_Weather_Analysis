@@ -1,6 +1,6 @@
 # World_Weather_Analysis
 
-# Using APIs to Visualize Weather Data
+## Using APIs to Visualize Weather Data
 
 ### SITUATION/TASK  
 Analyzing weather data for a travel tech company. The company is attempting to provide real-time information to clients via their search page which they would filter based on their preferred travel criteria to find their ideal hotel anywhere in the world. 
